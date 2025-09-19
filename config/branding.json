@@ -45,11 +45,11 @@
     "customIconsEnabled": true
   },
   "features": {
-    "welcomeMessage": "Welcome to Check, CyberDrain's Microsoft 365 Phishing Protection - Safeguard Your Organization",
-    "tagline": "Advanced phishing detection for Microsoft 365 login pages by CyberDrain",
-    "securityBadgeText": "Protected by CyberDrain",
-    "blockedPageTitle": "Phishing Attempt Blocked by CyberDrain",
-    "blockedPageMessage": "This page appears to be a phishing attempt targeting Microsoft 365 credentials. CyberDrain has blocked access to protect your organization."
+    "welcomeMessage": "Welcome to Check, Microsoft 365 Phishing Protection from Main Street Access - Safeguard Your Organization",
+    "tagline": "Advanced phishing detection for Microsoft 365 login pages by Main Street Access",
+    "securityBadgeText": "Protected by Check",
+    "blockedPageTitle": "Phishing Attempt Blocked by Check",
+    "blockedPageMessage": "This page appears to be a phishing attempt targeting Microsoft 365 credentials. Check has blocked access to protect your organization."
   },
   "customText": {
     "extensionDescription": "Check provides enterprise-grade detection and blocking of phishing attempts targeting Microsoft 365 login pages, with comprehensive policy management and audit capabilities.",
